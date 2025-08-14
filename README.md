@@ -8,10 +8,10 @@ I'm doing a 1 month ML Internship with **Elevvo Pathways**. The is Level 1 : Tas
 - **Bonus:** Tested feature combinations like sleep hours & participation.
 
 # 📊 Dataset
-Source: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
-Number of Records: 6,607
-Number of Features: 20
-File Format: CSV
+- Source: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
+- Number of Records: 6,607
+- Number of Features: 20
+- File Format: CSV
 
 # 🧠 Tools & Libraries
 - Python
